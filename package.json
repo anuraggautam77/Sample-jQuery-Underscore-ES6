@@ -1,0 +1,17 @@
+{
+  "name": "ES6-JQuery-Backbonejs",
+  "version": "1.0.0",
+  "description": "anuraggautam77@gmail.com",
+  "main": "index.js",
+
+  "scripts" : {
+    "start" : "node index.js"
+  },
+  "dependencies": {
+    "underscore": "",
+    "bootstrap": "",
+    "jquery ":""
+  },
+  "author": "Anurag Gautam",
+  "license": "ISC"
+}
