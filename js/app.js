@@ -2,7 +2,8 @@
  * Created by anurag on 18-02-2017.
  */
 
- class App {
+ class APPLICATION {
+     
     constructor (){
         this.jsonPath = "assets/cart.json";
      }
@@ -24,5 +25,5 @@
 
 };
 
-var app = new App();
+var app = new APPLICATION();
 app.invokeApp();
